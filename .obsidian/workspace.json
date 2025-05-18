@@ -1,0 +1,286 @@
+{
+  "main": {
+    "id": "a31c60de33db9055",
+    "type": "split",
+    "children": [
+      {
+        "id": "42d0de812d89fa78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e3f8f104ef982e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电子&&计算机/电路/信号与系统/signal_system_tree.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "signal_system_tree"
+            }
+          },
+          {
+            "id": "d9255dfa0c2335ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电子&&计算机/电路/电路基础/一阶电路响应.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "一阶电路响应"
+            }
+          },
+          {
+            "id": "bfb1cac5e5a04176",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电子&&计算机/计算机四大件/操作系统/OS_tree.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "OS_tree"
+            }
+          },
+          {
+            "id": "9eb792992249ef04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电子&&计算机/电路/信号与系统/卷积.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "卷积"
+            }
+          },
+          {
+            "id": "66504a2363224435",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电子&&计算机/电路/模电/analog_technology_tree.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "analog_technology_tree"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10b1faa83bb2960b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c838764d9a57bf8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3754e1113226dadd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "bae8231e32444ee9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "52f4b78ae1cfc763",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.5110321044922
+  },
+  "right": {
+    "id": "888200541bea5f09",
+    "type": "split",
+    "children": [
+      {
+        "id": "d40485c65ed33bf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea5b15d6f579eec6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "电子&&计算机/电路/一阶电路响应.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "一阶电路响应 的反向链接列表"
+            }
+          },
+          {
+            "id": "931a76dcd62a74ab",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "电子&&计算机/信号与系统/卷积.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "卷积 的出链列表"
+            }
+          },
+          {
+            "id": "41235b775b565521",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "799b6eb63b769e4e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "电子&&计算机/计算机四大件/操作系统/OS_tree.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "OS_tree 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
+    }
+  },
+  "active": "bfb1cac5e5a04176",
+  "lastOpenFiles": [
+    "电子&&计算机/计算机四大件/操作系统/操作系统知识树.xmind",
+    "电子&&计算机/底层语言/汇编语言/汇编语言树.md",
+    "电子&&计算机/计算机四大件/操作系统/OS_tree.md",
+    "电子&&计算机/底层语言/汇编语言/汇编语言知识树.xmind",
+    "电子&&计算机/电路/信号与系统/卷积 计算.md",
+    "电子&&计算机/计算机四大件",
+    "电子&&计算机/计算机四大件/操作系统",
+    "电子&&计算机/底层语言/汇编语言",
+    "电子&&计算机/底层语言",
+    "电子&&计算机/电路/信号与系统/卷积.md",
+    "电子&&计算机/电路/信号与系统/signal_system_tree.md",
+    "电子&&计算机/电路/电路基础",
+    "电子&&计算机/电路/数电",
+    "电子&&计算机/电路/模电",
+    "电子&&计算机/电路/模电/analog_technology_tree.md",
+    "电子&&计算机/电路/电路基础/一阶电路响应.md",
+    "电子&&计算机/电路/信号与系统知识树.xmind",
+    "电子&&计算机/电路/模拟电子技术知识树.xmind",
+    "电子&&计算机/电路/模电/反馈的判断.md",
+    "电子&&计算机/电路/模电/常见电路.md",
+    "数学/三大件/內积空间.md",
+    "电子&&计算机/底层语言/Verilog_language/FSM的一些例子.md",
+    "电子&&计算机/底层语言/Verilog_language/Verilog常见问题.md",
+    "古老的调试/未命名/创建链接.md",
+    "电子&&计算机/底层语言/Verilog_language/verilog_tree.md",
+    "常用工具/git/好用的开源项目.md",
+    "常用工具/git/流程图.md",
+    "单片机/linux&&FreeRtos/线程交互方式.md",
+    "单片机/linux&&FreeRtos/未命名.md",
+    "单片机/linux&&FreeRtos/奇妙操作.md",
+    "古老的调试/欢迎.md",
+    "电子&&计算机/人工智能/5.16作业.md",
+    "电子&&计算机/人工智能/5.16提交版本.md",
+    "电子&&计算机/人工智能/picture/Pasted image 20250516224810.png",
+    "program_test/继承和多态.md",
+    "电子&&计算机/人工智能/picture/f512bb8c876305ff50386b79b13739e3_720.jpg",
+    "欢迎.md",
+    "未命名.canvas",
+    "symbols.md",
+    "古老的调试/未命名/picture/Pasted image 20250510175218.png",
+    "古老的调试/图片/Pasted image 20250507225649.png",
+    "古老的调试/图片/Pasted image 20250507145254.png",
+    "古老的调试/图片/Pasted image 20250507225531.png",
+    "古老的调试/未命名.canvas",
+    "电子&&计算机/电路/信号与系统/picture/Pasted image 20250514203154.png",
+    "电子&&计算机/电路/信号与系统/picture/Pasted image 20250514202513.png",
+    "电子&&计算机/picture/Pasted image 20250510160900.png",
+    "电子&&计算机/picture/Pasted image 20250510112641.png"
+  ]
+}
