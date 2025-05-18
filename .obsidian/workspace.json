@@ -8,82 +8,97 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4e3f8f104ef982e5",
+            "id": "aa29ddb18e038ed7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电子&&计算机/电路/信号与系统/signal_system_tree.md",
+                "file": "电子&&计算机/底层语言/汇编语言/一些示例.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "signal_system_tree"
+              "title": "一些示例"
             }
           },
           {
-            "id": "d9255dfa0c2335ba",
+            "id": "e1b88773cd8bcad4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电子&&计算机/电路/电路基础/一阶电路响应.md",
+                "file": "电子&&计算机/底层语言/汇编语言/汇编语言常见缩写.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "一阶电路响应"
+              "title": "汇编语言常见缩写"
             }
           },
           {
-            "id": "bfb1cac5e5a04176",
+            "id": "f80a5b0065c32a17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电子&&计算机/计算机四大件/操作系统/OS_tree.md",
+                "file": "单片机/stm32/f407中多任务开发.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "OS_tree"
+              "title": "f407中多任务开发"
             }
           },
           {
-            "id": "9eb792992249ef04",
+            "id": "4faea80994676f7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电子&&计算机/电路/信号与系统/卷积.md",
+                "file": "单片机/esp32/esp32_tree.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "卷积"
+              "title": "esp32_tree"
             }
           },
           {
-            "id": "66504a2363224435",
+            "id": "9d20ff45fbb7cdeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "电子&&计算机/电路/模电/analog_technology_tree.md",
+                "file": "电子&&计算机/底层语言/汇编语言/汇编语言树.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "analog_technology_tree"
+              "title": "汇编语言树"
+            }
+          },
+          {
+            "id": "c340b4de54943100",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "电子&&计算机/底层语言/汇编语言/高级语言&&低级语言/C语言与汇编语言的对比.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "C语言与汇编语言的对比"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "电子&&计算机/计算机四大件/操作系统/OS_tree.md",
+                "file": "单片机/esp32/esp32_tree.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "OS_tree 的大纲"
+              "title": "esp32_tree 的大纲"
             }
           }
         ],
@@ -232,11 +247,26 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "bfb1cac5e5a04176",
+  "active": "4faea80994676f7e",
   "lastOpenFiles": [
-    "电子&&计算机/计算机四大件/操作系统/操作系统知识树.xmind",
+    "单片机/esp32/知识树.md",
+    "单片机/esp32/esp32_tree.md",
+    "电子&&计算机/底层语言/汇编语言/寻址方法.md",
     "电子&&计算机/底层语言/汇编语言/汇编语言树.md",
+    "Pasted image 20250518113327.png",
+    "Pasted image 20250518113323.png",
+    "电子&&计算机/底层语言/汇编语言/常见问题.md",
+    "Pasted image 20250518113029.png",
+    "单片机/stm32/f407中多任务开发.md",
+    "电子&&计算机/底层语言/汇编语言/高级语言&&低级语言/2_c语言与汇编对比.md",
+    "电子&&计算机/底层语言/汇编语言/高级语言&&低级语言/C语言与汇编语言的对比.md",
+    "电子&&计算机/底层语言/汇编语言/汇编语言常见缩写.md",
+    "电子&&计算机/底层语言/汇编语言/一些示例.md",
+    "电子&&计算机/底层语言/汇编语言/c语言与汇编对比2.md",
+    "电子&&计算机/底层语言/汇编语言/高级语言&&低级语言",
+    "电子&&计算机/底层语言/汇编语言/C语言与汇编语言的对比.md",
     "电子&&计算机/计算机四大件/操作系统/OS_tree.md",
+    "电子&&计算机/计算机四大件/操作系统/操作系统知识树.xmind",
     "电子&&计算机/底层语言/汇编语言/汇编语言知识树.xmind",
     "电子&&计算机/电路/信号与系统/卷积 计算.md",
     "电子&&计算机/计算机四大件",
@@ -250,8 +280,6 @@
     "电子&&计算机/电路/模电",
     "电子&&计算机/电路/模电/analog_technology_tree.md",
     "电子&&计算机/电路/电路基础/一阶电路响应.md",
-    "电子&&计算机/电路/信号与系统知识树.xmind",
-    "电子&&计算机/电路/模拟电子技术知识树.xmind",
     "电子&&计算机/电路/模电/反馈的判断.md",
     "电子&&计算机/电路/模电/常见电路.md",
     "数学/三大件/內积空间.md",
@@ -260,27 +288,14 @@
     "古老的调试/未命名/创建链接.md",
     "电子&&计算机/底层语言/Verilog_language/verilog_tree.md",
     "常用工具/git/好用的开源项目.md",
-    "常用工具/git/流程图.md",
-    "单片机/linux&&FreeRtos/线程交互方式.md",
-    "单片机/linux&&FreeRtos/未命名.md",
-    "单片机/linux&&FreeRtos/奇妙操作.md",
-    "古老的调试/欢迎.md",
-    "电子&&计算机/人工智能/5.16作业.md",
-    "电子&&计算机/人工智能/5.16提交版本.md",
     "电子&&计算机/人工智能/picture/Pasted image 20250516224810.png",
-    "program_test/继承和多态.md",
     "电子&&计算机/人工智能/picture/f512bb8c876305ff50386b79b13739e3_720.jpg",
-    "欢迎.md",
     "未命名.canvas",
-    "symbols.md",
     "古老的调试/未命名/picture/Pasted image 20250510175218.png",
     "古老的调试/图片/Pasted image 20250507225649.png",
     "古老的调试/图片/Pasted image 20250507145254.png",
     "古老的调试/图片/Pasted image 20250507225531.png",
     "古老的调试/未命名.canvas",
-    "电子&&计算机/电路/信号与系统/picture/Pasted image 20250514203154.png",
-    "电子&&计算机/电路/信号与系统/picture/Pasted image 20250514202513.png",
-    "电子&&计算机/picture/Pasted image 20250510160900.png",
-    "电子&&计算机/picture/Pasted image 20250510112641.png"
+    "电子&&计算机/电路/信号与系统/picture/Pasted image 20250514203154.png"
   ]
 }
