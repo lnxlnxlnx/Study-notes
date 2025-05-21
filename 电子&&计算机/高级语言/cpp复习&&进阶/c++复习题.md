@@ -614,6 +614,7 @@ private:
     vector<Shape*> shapes;  // 存储基类指针（多态）
 public:
     void addShape(Shape* s) { shapes.push_back(s); }
+    //这里可以优化一下,把totalArea定义为一个变量,防止多次查询总面积
     double totalArea() const {
         double sum = 0;
         for (const auto& s : shapes) sum += s->area();
@@ -660,8 +661,8 @@ int main() {
 
 **答案**：  
 1. **函数模板 vs 类模板**  
-   - **函数模板**：生成函数的蓝图（如 `template <typename T> T add(T a, T b)`），编译器根据实参推导类型。  
-   - **类模板**：生成类的蓝图（如 `template <typename T> class Vector`），需显式指定类型（如 `Vector<int>`）。  
+   - **函数模板**：生成函数的蓝图（如 `template <typename T> T add(T a, T b)`），==编译器根据实参推导类型==。  
+   - **类模板**：生成类的蓝图（如 `template <typename T> class Vector`），==需显式指定类型==（如 `Vector<int>`）。  
    - **联系**：均通过模板实例化生成具体类型的代码（泛型编程）。  
 
 2. **模板特化 vs 偏特化**  
