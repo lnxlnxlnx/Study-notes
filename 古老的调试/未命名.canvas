@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"ea62a651e0d19b27","x":-125,"y":-30,"width":250,"height":60,"color":"1","type":"text","text":""},
-		{"id":"ece539337171b3c6","x":-200,"y":-300,"width":400,"height":400,"type":"file","file":"古老的调试/未命名.canvas"}
-	],
-	"edges":[]
-}
