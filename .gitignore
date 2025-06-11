@@ -4,3 +4,6 @@ git rm -r --cached .obsidian/
 git rm -r --cached .obsidian/plugins/remotely-save/
 git rm -r --cached 古老的调试
 /古老的调试
+git rm -r --cached .vscode/
+/.vscode
+/.*
